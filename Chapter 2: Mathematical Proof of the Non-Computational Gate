@@ -1,0 +1,22 @@
+# Chapter 2: Mathematical Proof of the Non-Computational Gate
+### Geometric Rigidity and Topological Continuity in AGI Inference
+
+## 1. Axiom of Structural Rigidity (The Triangle Minimal Form)
+Inference is defined not as a probabilistic sequence, but as a geometric truss. For a set of propositions {a, b, c}, LIP enforces a closed-loop constraint:
+
+**Constraint:** Link(a, b) ∩ Link(b, c) ∩ Link(c, a) ≠ ∅
+
+If the connection fails to form a "Triangle" (the minimal rigid structure), the logical energy dissipates. The gate physically terminates the output through **Self-Collapse**, requiring zero computational steps to detect instability.
+
+## 2. Topological Verification: Preservation of Void
+Any predicted information (x̂) attempted to bridge a logical "Void" (U) is tested against the existing knowledge set (K).
+
+**Function:** Φ(K ∪ {x̂}) → {0, 1}
+
+- **Φ = 1**: Continuity is maintained (Phase-C: Constructive).
+- **Φ = 0**: A "Fracture" is detected in the logical topology (Phase-V: Contamination). 
+
+The gate immediately re-establishes the **Void**, forcing the output to 0 (Silence).
+
+## 3. Non-Computational Phase Transition
+LIP bypasses iterative "if-then" processing. Inference is realized as a physical **Phase Transition** where information crystallizes only when all structural constraints are met simultaneously. The probability P(error) is mathematically eliminated (P=0).
